@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    direction: rtl;
+}
+.r{
+    float: right;
+}
+.l{
+    float: left;
+}
+.c{
+    clear:both;
+}
+.w{
+    width:1000px;
+    margin:0px auto;  
+}
+/*header style*/
+.headerTop{
+    background: url('../images/top-menu.png');
+    background-repeat:repeat-x;
+}
+.logo{
+    padding: 17px;
+}
